@@ -6,3 +6,10 @@ How to Run
 pip install mysql-connector-python
 2. Run:
 python main.py
+
+
+ Features
+- Admin, Faculty, Student login system
+- Manage students and faculty
+- Add and update marks
+- Fee payment system
